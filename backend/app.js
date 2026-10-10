@@ -4,7 +4,7 @@ const dotenv = require('dotenv');
 dotenv.config();
 
 const { products } = require('./data');
-console.log(products);
+// console.log(products);
 const cors = require('cors');
 
 
